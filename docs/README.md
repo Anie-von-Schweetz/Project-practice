@@ -309,6 +309,6 @@ def format_sport_info(sport):
 <img src="https://github.com/user-attachments/assets/e86dd70b-ccee-47f1-857e-c2b28210d0ea" alt="Описание изображения" width="200" height="450">
 
 #### 4. Видео презентация выполненной работы
-Смотрите видео в файле 
+Смотрите видео в файле [practice_report_template.docx](practice_report_template.docx).
 
 ## 3. Этапы работы над проектом
